@@ -81,3 +81,12 @@ body {
 }
 
 
+.trending-container{
+    padding: 25px 50px;
+}
+
+.trending-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
