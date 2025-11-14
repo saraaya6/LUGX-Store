@@ -69,6 +69,7 @@ body {
 }
 
 
+
 .landingPageSearch button{
     position: absolute;
     left: 200px;
@@ -90,3 +91,6 @@ body {
     justify-content: space-between;
     align-items: center;
 }
+
+
+
