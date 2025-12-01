@@ -28,7 +28,7 @@ CSS3
 🔧 How to Use
 As this is a static front-end project, no installation is required:
 
-Download or clone the repository.
+Download or clone the repository. or https://luxastore.netlify.app/
 
 Open the index.html file directly in your preferred web browser.
 
